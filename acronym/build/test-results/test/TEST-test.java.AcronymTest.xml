@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AcronymTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-12-31T19:04:53" hostname="nick.local" time="0.03">
+  <properties/>
+  <testcase name="underscoreEmphasis" classname="test.java.AcronymTest" time="0.011"/>
+  <testcase name="lowercaseWords" classname="test.java.AcronymTest" time="0.001"/>
+  <testcase name="apostrophes" classname="test.java.AcronymTest" time="0.001"/>
+  <testcase name="basic" classname="test.java.AcronymTest" time="0.001"/>
+  <testcase name="veryLongAbbreviation" classname="test.java.AcronymTest" time="0.002"/>
+  <testcase name="nonAcronymAllCapsWord" classname="test.java.AcronymTest" time="0.005"/>
+  <testcase name="consecutiveDelimiters" classname="test.java.AcronymTest" time="0.001"/>
+  <testcase name="punctuationWithoutWhitespace" classname="test.java.AcronymTest" time="0.002"/>
+  <testcase name="punctuation" classname="test.java.AcronymTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

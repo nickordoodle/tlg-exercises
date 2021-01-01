@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.DartsTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-12-30T21:49:59" hostname="nick.local" time="0.021">
+  <properties/>
+  <testcase name="exactlyOnCentre" classname="test.java.DartsTest" time="0.012"/>
+  <testcase name="onTheInnerCircle" classname="test.java.DartsTest" time="0.001"/>
+  <testcase name="justWithinTheInnerCircle" classname="test.java.DartsTest" time="0.0"/>
+  <testcase name="justWithinTheMiddleCirlce" classname="test.java.DartsTest" time="0.0"/>
+  <testcase name="asymmetricPositionBetweenTheInnerAndMiddleCircles" classname="test.java.DartsTest" time="0.0"/>
+  <testcase name="nearTheCentre" classname="test.java.DartsTest" time="0.0"/>
+  <testcase name="missedTarget" classname="test.java.DartsTest" time="0.001"/>
+  <testcase name="justOutsideTheOuterCircle" classname="test.java.DartsTest" time="0.0"/>
+  <testcase name="justOutsideTheMiddleCircle" classname="test.java.DartsTest" time="0.0"/>
+  <testcase name="onTheMiddleCircle" classname="test.java.DartsTest" time="0.0"/>
+  <testcase name="onTheOuterCircle" classname="test.java.DartsTest" time="0.0"/>
+  <testcase name="justWithinTheOuterCirlce" classname="test.java.DartsTest" time="0.0"/>
+  <testcase name="justOutsideTheInnerCircle" classname="test.java.DartsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
